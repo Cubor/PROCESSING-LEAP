@@ -1,5 +1,7 @@
 # PROCESSING-LEAP
 
-![Leap](/leap.gif)
+![Norville](/norville.gif)
 
-Visualisation assez basique qui bouge au son de la musique + le variables se pilotent avec un Leap Motion. 
+Basic visualisation moving with sound, and you can also control the variables with a Leap Motion. 
+
+The soundtrack is from the french group Norville : https://www.youtube.com/watch?v=erFbiCs7K60
